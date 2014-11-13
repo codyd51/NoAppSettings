@@ -1,0 +1,9 @@
+Package: com.phillipt.noappsettings
+Name: NoAppSettings
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Remove the individual settings pages for apps
+Maintainer: Phillip Tennen
+Author: Phillip Tennen
+Section: Tweaks
